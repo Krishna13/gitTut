@@ -1,0 +1,1 @@
+then git log to see the logs of the git repo

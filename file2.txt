@@ -1,0 +1,2 @@
+Then the important command is git add filename to add the file into the staging area
+And git commit -m "message" to commit the file
